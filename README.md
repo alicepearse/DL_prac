@@ -1,2 +1,2 @@
 # DL_prac
-This is an explantory file
+Deep Learning Prac repo.
