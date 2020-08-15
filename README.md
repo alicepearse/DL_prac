@@ -1,2 +1,2 @@
 # DL_prac
-Deep Learning Prac repo.
+Deep Learning Prac repo.2
