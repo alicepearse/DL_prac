@@ -12,7 +12,7 @@ The following languages and frameworks have been used in this repository.
 <div style="text-align: center;">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" width="10%" text-align="center"/>
 <img src="https://blog.ronsonchan.com/content/images/size/w2000/2018/04/2000px-Tensorflow_logo.svg-1-.png" width="10%" text-align="center"/>
-<img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="10%" text-align="center"/>
+<img src="https://lh3.googleusercontent.com/proxy/-rc4p9YsUPNHuUQGcMJGQFjuSJnzYWEfSykw30h0JkPsuNRJb63B85WgJmdzNx87Sj0zkOuqj1OYKAWMMI8mUc_ffcO6EZ3MrULuXhRpzuzJ" width="10%" text-align="center"/>
 <img src="https://d7umqicpi7263.cloudfront.net/img/product/f4d5b5a8-72c3-4c4b-ba8e-5196ad1341f3/3f930174-0bab-4dcc-b606-828328d92898.png" width="10%" text-align="center"/>
 </div>
 <br>
